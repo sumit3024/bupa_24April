@@ -1,0 +1,6 @@
+C:\Users\sumit\PycharmProjects\pythonProject\venv\Scripts\python.exe C:/Users/sumit/PycharmProjects/pythonProject/Exchange.py
+Best exchange rate: 1 EUR = 1.80345 NZD
+Worst exchange rate: 1 EUR = 1 NZD
+Average exchange rate for the month: 1.4017249999999999 NZD
+
+Process finished with exit code 0
